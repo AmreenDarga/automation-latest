@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11777" started-at="2019-10-31T07:55:15Z" finished-at="2019-10-31T07:55:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11777" started-at="2019-10-31T07:55:15Z" finished-at="2019-10-31T07:55:27Z">
+      <class name="net.phptravels.PhpTravels.Signup1">
+        <test-method status="PASS" signature="runsignup()[pri:0, instance:net.phptravels.PhpTravels.Signup1@21213b92]" name="runsignup" duration-ms="11741" started-at="2019-10-31T07:55:15Z" finished-at="2019-10-31T07:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runsignup -->
+      </class> <!-- net.phptravels.PhpTravels.Signup1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
